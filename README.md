@@ -19,3 +19,8 @@
 **git branch -M main**  - создание ветки  
 **git push -u origin main** - отправка данных в ветку удалённого репозитория  
 **git config http.sslVerify false** - отключить проверку сертификатов для этого репозитория (если требуется)
+
+### Мой проект 
+[Мой репозиторий находится по этой ссылке](https://github.com/mopsik10/python_project)  
+
+![](super.jpg)
